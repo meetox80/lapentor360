@@ -1,0 +1,7 @@
+.{
+    .name = .lapentor360,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.17.0",
+    .paths = .{ "build.zig", "build.zig.zon", "src", "README.md", "LICENSE" },
+    .fingerprint = 0x7f42bda30e65ad3c,
+}
